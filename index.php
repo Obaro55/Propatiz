@@ -1,0 +1,1 @@
+<?php echo "Propatiz theme created by Obaro."; ?>
